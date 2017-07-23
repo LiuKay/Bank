@@ -1,0 +1,44 @@
+   
+#mypanel{
+		width: 450px;
+		margin-top: 40px;
+		margin-left: 300px;
+}
+#container{
+	text-align: center;
+}
+.myform{
+		width: 315px;
+}
+#loginbtn{
+	margin-right: 28px;
+	 margin-top: 10px;
+}
+a{
+	display: inline-block;
+}
+.registab{
+	margin-left: 50px;
+}
+#signupbtn{
+	margin-right: 50px;
+}
+
+.myviews{
+		width: 400px;
+		height: 240px;
+		padding: 40px;
+		text-align: center;
+		float: left;
+		margin-left: 100px;
+		margin-top: 20px;
+}
+#myModal{
+	top:10%;
+}
+#bankwater_view{
+	float: left;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+		
